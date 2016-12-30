@@ -1,0 +1,19 @@
+#login-buttons {
+    margin: 18px;
+    font-size: 14px;
+}
+
+.list-group-item {
+    line-height: 3;
+}
+
+footer {
+    clear: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer .input-group {
+    max-width: 30%;
+}
